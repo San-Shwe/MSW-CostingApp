@@ -1,3 +1,4 @@
 cause we are in developing situation, it can have errors and bugs, please report it and don't blame developer
 
-
+use space bar to choose radio button 
+use TAB to jumb another text box
